@@ -1,0 +1,15 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(33,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(34,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(140,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(151,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(162,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(230,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(231,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(248,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zakha\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(341,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 294 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication18.vcxproj -> C:\Users\zakha\source\repos\ConsoleApplication18\x64\Release\ConsoleApplication18.exe

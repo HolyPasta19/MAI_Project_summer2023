@@ -1,3 +1,0 @@
-﻿  ConsoleApplication16.cpp
-C:\Users\zakha\source\repos\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(337,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  ConsoleApplication16.vcxproj -> C:\Users\zakha\source\repos\ConsoleApplication16\Debug\ConsoleApplication16.exe
